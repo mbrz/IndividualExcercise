@@ -1,2 +1,3 @@
 Changed content for GitBash...
-Conflict to
+Conflict to resolve
+
