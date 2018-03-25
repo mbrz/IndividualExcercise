@@ -1,2 +1,3 @@
 # IndividualExcercise
 Exercises: Git and GitHub
+Making a conflict to resolve...
