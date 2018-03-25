@@ -1,3 +1,3 @@
 # IndividualExcercise
 Exercises: Git and GitHub
-Conflict ... conflict
+Option 3
